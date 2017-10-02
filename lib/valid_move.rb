@@ -1,4 +1,4 @@
-def valid_move(board, index)# code your #valid_move? method here
+def valid_move?(board, index)# code your #valid_move? method here
 end
 
 
